@@ -1,0 +1,5 @@
+github "kingfai/carthage_test_assets.git" "3.0.0"
+github "kingfai/carthage_test_autheng.git" "4.0.3"
+github "kingfai/carthage_test_loginkit.git" "5.0.3"
+
+github "kingfai/carthage_test_thekit" "5.0.0"
